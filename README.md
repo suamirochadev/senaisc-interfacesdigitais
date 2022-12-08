@@ -16,8 +16,13 @@
 
 #### Após concluir os dois módulos você encontrará uma Atividade Avaliativa, para ser considerado aprovado no curso é necessário que a sua nota na avaliação seja maior ou igual a sete, serão disponibilizadas três tentativas para a avaliação.
 
-📱:
+![Resumo do módulo](https://cdn.discordapp.com/attachments/1045720339772088342/1050495894228840488/resumo_md2.png)
 
-📱:
+📱:[Link para o desafio do módulo 1](https://github.com/suamirocha/PROJETO-WIREFRAME-Qualifica-Tech-SENAI-SC-UX-Interfaces-Digitais/blob/main/Desafio_M1.pdf)
 
-👾:
+📱:[Link para o desafio do módulo 2](https://github.com/suamirocha/PROJETO-WIREFRAME-Qualifica-Tech-SENAI-SC-UX-Interfaces-Digitais/blob/main/Desafio_M2.pdf)
+
+👾:![demonstração do wireframe](https://media.giphy.com/media/3DVFpBs0RqmIGNM8rB/giphy.gif)
+
+
+<a href="https://twitter.com/hisuamirocha" target="_blank"><img src="https://img.shields.io/twitter/follow/hisuamirocha?style=social" target="_blank"></a> <a href="suamirochati@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/suamirochadev/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
